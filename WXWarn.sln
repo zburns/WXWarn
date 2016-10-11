@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WXWarn", "WXWarn\WXWarn.csproj", "{38F7E12C-CC17-4BF0-952E-F5D121B3742B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WXOutlook", "WXOutlook\WXOutlook.csproj", "{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sourcecontrol:8080/tfs/midassourcecontrol
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WXWarn\\WXWarn.csproj
+		SccProjectName1 = WXWarn
+		SccLocalPath1 = WXWarn
+		SccProjectUniqueName2 = WXOutlook\\WXOutlook.csproj
+		SccProjectName2 = WXOutlook
+		SccLocalPath2 = WXOutlook
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Debug|x86.ActiveCfg = Debug|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Debug|x86.Build.0 = Debug|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Release|Any CPU.ActiveCfg = Release|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Release|x86.ActiveCfg = Release|x86
+		{38F7E12C-CC17-4BF0-952E-F5D121B3742B}.Release|x86.Build.0 = Release|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Debug|x86.ActiveCfg = Debug|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Debug|x86.Build.0 = Debug|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Release|Any CPU.ActiveCfg = Release|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Release|x86.ActiveCfg = Release|x86
+		{9EE2BB41-3D1B-492F-8DC0-458269D92AB0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
